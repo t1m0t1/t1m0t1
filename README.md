@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="t1m0t1" src="https://i.imgur.com/aNBi8Jf.png"](https://plus.unsplash.com/premium_photo-1673483274179-fa70dd117310?q=80&w=1938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D/>
+<img align="right" width="400" alt="t1m0t1" src="https://i.imgur.com/aNBi8Jf.png"](https://plus.unsplash.com/premium_photo-1673483274179-fa70dd117310?q=80&w=1938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 
 <h2> / Sobre mi /</h2>
   
