@@ -2,14 +2,14 @@
 
 <div>
 
-<img align="right" width="400" alt="t1m0t1" src="https://plus.unsplash.com/premium_photo-1673483274179-fa70dd117310?q=80&w=1938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+<img align="right" width="400" alt="t1m0t1" src="https://images.unsplash.com/photo-1541807360746-039080941306?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 
-<h2> / Sobre mi /</h2>
+<h2>  Sobre mi </h2>
   
 - ⭐ Actualmente me encuentro trabajando como **Desarrollador web** y **Tester manual**
-- 💀 Mayormente trabajo en **proyectos privados*
+- 💀 Mayormente trabajo en **proyectos privados**
   
-<h2> / Habilidades / </h2>
+<h2>  Habilidades  </h2>
 - <h4> Stack principal </h4>
   <img src = "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt = "Laravel" />
   <img src = "https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white" alt = "Livewire" />
