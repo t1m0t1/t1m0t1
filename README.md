@@ -1,5 +1,5 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="t1mt01" /></p>
+<h1>Hola!, Soy <a  href="https://techytushar.github.io/">Tarchini Matias</a> <img  src="#" width="30px"></h1>
+
 <div>
 
 <img align="right" width="400" alt="t1m0t1" src="https://i.imgur.com/aNBi8Jf.png"/>
